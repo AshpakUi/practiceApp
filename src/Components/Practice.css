@@ -1,0 +1,15 @@
+.cardhover:hover{
+    /* background-color: aqua; */
+    /* border: 2px solid black; */
+    /* border-radius: 50%; */
+    /* box-shadow: 10px 10px 10px black; */
+    /* box-shadow: 5px; */
+}
+.card:hover{
+    height:300px;
+    width: 380px;
+    box-shadow: -10px -10px  20px  black;
+    box-sizing: border-box;
+    /* max-zoom:00px; */
+    
+}
